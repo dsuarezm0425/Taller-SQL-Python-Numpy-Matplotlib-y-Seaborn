@@ -7,6 +7,8 @@ Databasetaller.py: Documento en Pyton con el código definitivo
 PANTALLAZOS CODIGO: Documento en word con capturas de pantalla realizadas cada vez que se adicionó una instrucción al código
 PANTALLAZOS REPOSITORIO GITHUB: Documento con capturas de pantalla reaizadas al crear el repositorio y cambios
 PRESENTACION TALLER DIA 1: Documento en PDF con el trabajo colaborativo realizado el primer dia del taller
-Taller Grupo3 Archio Pyton con el código inicial
+PRESENTACION TALLER DIA 2: Documento en PDF co el análisis realizado en el segundo día del taller
+RESOLUCION DE PREGUNTAS: Documento en Power BI en el que se generaron los gráficos para el análisis de cada pregunta
+Taller Grupo3 Archio Pyton con el código inicial solo limpieza de datos
 Taller SQL,Python, Numpy... Documento en PDF con las instrucciones del taller
 Taller SQL, Pyhon Planteamiento de preguntas
